@@ -1,6 +1,6 @@
 title=Vitur
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-cachedir=vitur-cache
+cachedir=vitur
 storebase=0
 initial_jar=gamepack_690827.jar
 initial_class=client.class
