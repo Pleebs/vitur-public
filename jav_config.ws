@@ -1,7 +1,7 @@
 title=Vitur
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 codebase=http://127.0.0.1/
-js5=192.168.0.27
+js5=127.0.0.1
 js5port=43594
 cachedir=vitur
 storebase=0
